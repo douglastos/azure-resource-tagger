@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD041 -->
 
   <tr>
-    <td><img src="https://dev.azure.com/douglastos/91a450cc-afd8-4054-95b6-cb075d5a0eb5/_apis/git/repositories/79e2600e-0588-4dd5-936f-0d6bf309317f/items?path=/.attachments/Logo.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&resolveLfs=true&%24format=octetStream&api-version=5.0" width="800" /></td>
+    <td><img src="https://vectorified.com/download-image#microsoft-azure-icon-11.png" width="800" /></td>
     <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Flinux_logo_icon_171222.png&f=1&nofb=1&ipt=7b969f2234f747e1db21294a093082793cd402f722f9a867d58226223e3cfc1c" width="800" /></td>
   </tr>
 </table>
