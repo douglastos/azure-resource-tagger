@@ -53,8 +53,8 @@ This Bash script applies tags to a list of Azure resources based on their IDs.
   ```bash
   status=emuso
   env=prd
-  produto=r1
-  cliente=siresp
+  produto=produto
+  cliente=cliente
   iac=nao
   ```
 
@@ -84,10 +84,10 @@ Tagging: /subscriptions/xxx/resourceGroups/my-rg/providers/Microsoft.Compute/vir
 {
   "id": "...",
   "tags": {
-    "cliente": "siresp",
+    "cliente": "client",
     "env": "prd",
     "iac": "nao",
-    "produto": "r1",
+    "produto": "produto",
     "status": "emuso"
   }
 },
