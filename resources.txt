@@ -1,0 +1,1 @@
+/subscriptions/subscriptions/resourceGroups/rg/providers/Microsoft.componente/componete/name
