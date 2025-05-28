@@ -7,7 +7,6 @@
   </tr>
 </table>
 
-
 # Azure Resource Tagger
 
 This Bash script applies tags to a list of Azure resources based on their IDs.
