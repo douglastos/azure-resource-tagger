@@ -3,7 +3,6 @@
 <!-- markdownlint-disable MD041 -->
 
   <tr>
-    <td><img src="https://vectorified.com/download-image#microsoft-azure-icon-11.png" width="800" /></td>
     <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Flinux_logo_icon_171222.png&f=1&nofb=1&ipt=7b969f2234f747e1db21294a093082793cd402f722f9a867d58226223e3cfc1c" width="800" /></td>
   </tr>
 </table>
