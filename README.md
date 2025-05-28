@@ -7,7 +7,6 @@
   </tr>
 </table>
 
-[[_TOC_]]
 
 # Azure Resource Tagger
 
